@@ -1,7 +1,7 @@
 Hi 👋 My name is Lirim Avdyli
 =============================
 
-Front-End Developer
+Web Developer
 -------------------
 
 * 🌍  I'm based in Prishtina.

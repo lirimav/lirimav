@@ -6,8 +6,7 @@ Web Developer
 
 * 🌍  I'm based in Prishtina.
 * ✉️  You can contact me at [lirim.dev@gmail.com](mailto:lirim.dev@gmail.com)
-* 🚀  I'm currently working on [pertej.digital](https://pertej.com/)
-* 🧠  I'm learning at becoming a full-stack MERN developer.
+* 🧠  On my way at becoming a full-stack MERN developer.
 * 🤝  I'm open to collaborating on interesting projects.
 
 ### Skills

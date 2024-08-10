@@ -6,7 +6,6 @@ Web Developer
 
 * 🌍  I'm based in Prishtina.
 * ✉️  You can contact me at [lirim.dev@gmail.com](mailto:lirim.dev@gmail.com)
-* 🧠  On my way at becoming a full-stack MERN developer.
 * 🤝  I'm open to collaborating on interesting projects.
 
 ### Skills
